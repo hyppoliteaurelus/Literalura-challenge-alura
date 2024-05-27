@@ -35,6 +35,17 @@ O projeto LiterAlura tem como objetivo gerenciar livros e autores, buscando info
 - Maven
 - Gutendex API
 
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+- Fork o repositório
+- Crie sua feature branch (git checkout -b feature/AmazingFeature)
+- Commit suas mudanças (git commit -m 'Add some AmazingFeature')
+- Push para a branch (git push origin feature/AmazingFeature)
+- Abra um Pull Request
+
+
 ## Configuração do Ambiente
 
 1. Clone o repositório:
@@ -42,3 +53,6 @@ O projeto LiterAlura tem como objetivo gerenciar livros e autores, buscando info
 ```bash
 git clone https://github.com/hyppoliteaurelus/Literalura-challenge-alura.git
 cd literalura
+
+
+
