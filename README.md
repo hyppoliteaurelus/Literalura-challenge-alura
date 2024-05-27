@@ -40,5 +40,5 @@ O projeto LiterAlura tem como objetivo gerenciar livros e autores, buscando info
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/literalura.git
+git clone https://github.com/hyppoliteaurelus/Literalura-challenge-alura.git
 cd literalura
